@@ -5,7 +5,7 @@
 ### 签名函数
 ![img_1.png](img_1.png)
 ### 验签函数
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/105533242/182005941-32be9273-e0c7-49df-8801-a51283477e31.png)
 ### 伪造函数
 ![img_3.png](img_3.png)
 ## 实验结果
